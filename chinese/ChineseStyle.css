@@ -11,7 +11,7 @@ img {
 }
 
 .my-image-container {
-  background-image: url("yourimage.jpg");
+  background-image: url("mushroom.jpg");
   background-size: contain; /* or 'cover' */
   background-repeat: no-repeat;
   background-position: center;
